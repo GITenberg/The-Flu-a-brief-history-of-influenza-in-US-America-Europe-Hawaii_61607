@@ -1,11 +1,16 @@
 _repo: The-Flu-a-brief-history-of-influenza-in-US-America-Europe-Hawaii_61607
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61607-h/images/cover.jpg
 creator:
   author:
     agent_name: Mouritz, A.
     gutenberg_agent_id: '51514'
     url: http://www.gutenberg.org/2009/agents/51514
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61607#The-Flu-a-brief-history-of-influenza-in-US-America-Europe-Hawaii
 gutenberg_issued: '2020-03-12'
 gutenberg_type: Text
 identifiers:
